@@ -42,7 +42,7 @@ Project created by <a href="https://github.com/suryabot-123">suryabot-123</a> to
 
 <p align="center">
 
-<a href="https://instagram.com/captian_crunch___ ?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/captian_crunch___?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
 </p>
 
