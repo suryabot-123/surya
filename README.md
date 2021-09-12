@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+surya+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+surya+WA+Bot+repo;Created+by+Surya;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 
@@ -16,7 +16,7 @@
 
  <p align="center">
 
-<a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/SURYA-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
@@ -32,13 +32,7 @@
 
 Project created by <a href="https://github.com/suryabot-123">suryabot-123</a> to make it public
 
-    <br>
-
-       | © |
-
-        Reserved |
-
-    <br> 
+   
 
 </p>
 
@@ -48,15 +42,10 @@ Project created by <a href="https://github.com/suryabot-123">suryabot-123</a> to
 
 <p align="center">
 
-<a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/captian_crunch___ ?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
 </p>
 
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
-
-<p align="center">
-
-<a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 
 </p>
 
@@ -72,33 +61,11 @@ Project created by <a href="https://github.com/suryabot-123">suryabot-123</a> to
 
 ##
 
-  <h3 align="center">📢 Support Group 1:</h3>
-
-<p align="center">
-
-Click WA logo to Join Support Group 👇
-
-    <br>
-
-<br>
-
-  <a href="https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 
 </p>
 
 ## 
 
-  <h3 align="center">📢 Support Group 2:</h3>
-
-<p align="center">
-
-Click surya logo to Join Support Group 2👇
-
-    <br>
-
-<br>
-
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
 
 </p>
 
