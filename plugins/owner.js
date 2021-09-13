@@ -39,7 +39,7 @@ else if (Config.WORKTYPE == 'public') {
             await message.client.sendMessage(message.jid,'Pikachu Bot created by *Surya*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.PLK + '*HE IS MY BOSS*', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.PLK + '*HE IS MY BOSS* Surya is my creator', MessageType.text);
         }
     }));
 }
