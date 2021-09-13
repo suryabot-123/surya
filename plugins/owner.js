@@ -36,10 +36,10 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'*OWNER*:Ｓ Ｕ Ｒ Ｙ Ａ : http://wa.me//+918547685581' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*Pikachu bot created by Surya* : http://wa.me//+918547685581' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.PLK + ' is not my owner,my owner is surya', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.PLK + ' is not my owner,my owner is surya:http://wa.me//+918547685581', MessageType.text);
         }
     }));
 }
