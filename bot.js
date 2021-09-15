@@ -432,7 +432,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
 
                                 await conn.sendMessage(conn.user.jid, '*~♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️~*' +
 
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n *Max Error ozivaakan contact*:http://wa.me//+918547685581
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n *Max Error ozhivaakan contact* ⚠️:http://wa.me//+918547685581
 
                                     , MessageType.text);
 
