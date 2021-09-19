@@ -30,7 +30,7 @@
 
 <p align="center">
 
-Project created by <a href="https://github.com/suryabot-123">suryabot-123</a> to make it public
+𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬 𝗦𝗨𝗥𝗬𝗔(https://wa.link/1cuosr) 𝗧𝗢 𝗠𝗔𝗞𝗘 𝗜𝗧 𝗣𝗨𝗕𝗟𝗜𝗖
 
    
 
