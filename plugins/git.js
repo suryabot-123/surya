@@ -14,11 +14,11 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 ⭕ *CONTACT 📡 :https://wa.link/1cuosr*
 
 ⭕ *GITHUB LINK :https://github.com/suryabot-123/surya*
-
-
-
-
-
 `}) 
 
 }));
+
+
+
+
+
