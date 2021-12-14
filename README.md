@@ -11,7 +11,7 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="SURYA" src="https://img.shields.io/badge/SURYA-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SURYA" src=""></a>
 </p>
   <p align="center">
 <a href="https://github.com/suryabot-123/surya"><img title="Author" src="https://img.shields.io/badge/Author-Surya/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
