@@ -9,10 +9,14 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     var skl = await axios.get("https://www.mcgilltribune.com/wp-content/uploads/2020/02/hacker.png", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: ` *My creator is Surya💞*
-*Creator number    :https://wa.link/1cuosr*
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: ` ⭕ *MY CREATOR IS SURYA❤‍🔥*
 
-*Githublink (Setup):https://github.com/suryabot-123/surya*
+⭕ *CONTACT 📡 :https://wa.link/1cuosr*
+
+⭕ *GITHUB LINK :https://github.com/suryabot-123/surya*
+
+
+
 
 
 `}) 
