@@ -18,7 +18,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/suryabot-123/surya">Surya</a> to make it public
+𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬 <a href="https://github.com/suryabot-123/surya"𝗦𝗨𝗥𝗬𝗔</a> 𝗧𝗢 𝗠𝗔𝗞𝗘 𝗜𝗧 𝗣𝗨𝗕𝗟𝗜𝗖
     <br>
        | © |
         Reserved |
@@ -31,10 +31,7 @@ Project created by <a href="https://github.com/suryabot-123/surya">Surya</a> to 
 <p align="center">
 <a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
-<p align="center">
-<a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
-</p>
+
   
 
 <p align="center">
