@@ -36,7 +36,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'*Pikachu bot created by Surya 💞* ɪͨᴛʸsᵇ ͤᴍͬᴇ ͩsͦᴜͫʀͤʏᴀ : http://wa.me//+918547685581' , MessageType.text);
+            await message.client.sendMessage(message.jid,'Oᴡɴᴇʀ : ⭕⃝ɪͨᴛʸsᵇ ͤᴍͬᴇ ͩsͦᴜͫʀͤʏᴀ⚠⃤' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '👈🏻He is my Owner,My creator is Surya💞 ɪͨᴛʸsᵇ ͤᴍͬᴇ ͩsͦᴜͫʀͤʏᴀ:http://wa.me//+918547685581', MessageType.text);
